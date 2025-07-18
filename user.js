@@ -6,4 +6,5 @@ const s=a.map((rest)=>{
 return rest*2
 })
 console.log(s);
+console.log("chbhbchbh");
 
